@@ -47,6 +47,12 @@
       "name": "Зеленый герой",
       "description": "Шустрый как ветер",
       "element": "wind"
+    },
+    {
+      "id": "2fa98950-7fe7-49ef-be7c-3faa18bf65a5",
+      "name": "Блеющий герой",
+      "description": "имею дымить",
+      "element": "fire"
     }
   ],
   "filters": [
