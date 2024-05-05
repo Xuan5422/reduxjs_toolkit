@@ -1,0 +1,79 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
+    },
+    {
+      "id": "fdb46853-ef3d-408b-9094-1ef2f0ad16ed",
+      "name": "Земляной герой",
+      "description": "выращиваю редиску",
+      "element": "earth"
+    },
+    {
+      "id": "5625884e-e2d9-41a6-afcf-d79805426d8f",
+      "name": "Речной героц",
+      "description": "Ловлю пиявок",
+      "element": "water"
+    },
+    {
+      "id": "b4d91d5f-cd57-42a5-b189-b3574e3ed5d3",
+      "name": "Горный герой",
+      "description": "крошить камни",
+      "element": "earth"
+    },
+    {
+      "id": "1fc07d21-c85a-49a8-beec-c49a1cadeab8",
+      "name": "Огненный герой",
+      "description": "Горю огнём",
+      "element": "fire"
+    },
+    {
+      "id": "32fcabff-16e2-4b16-942d-19753616b1ce",
+      "name": "Зеленый герой",
+      "description": "Шустрый как ветер",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
